@@ -2,3 +2,4 @@ grocery shop
 target
 store
 something
+error
